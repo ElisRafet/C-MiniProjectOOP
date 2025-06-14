@@ -1,0 +1,10 @@
+﻿  кркр.cpp
+C:\Users\elisr\OneDrive\Документи\уни 2 курс\Обектноориентирано програмиране\Курсов Проект\кркр\кркр\кркр.cpp(37,23): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\elisr\OneDrive\Документи\уни 2 курс\Обектноориентирано програмиране\Курсов Проект\кркр\кркр\кркр.cpp(39,24): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\elisr\OneDrive\Документи\уни 2 курс\Обектноориентирано програмиране\Курсов Проект\кркр\кркр\кркр.cpp(40,28): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\elisr\OneDrive\Документи\уни 2 курс\Обектноориентирано програмиране\Курсов Проект\кркр\кркр\кркр.cpp(44,24): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\elisr\OneDrive\Документи\уни 2 курс\Обектноориентирано програмиране\Курсов Проект\кркр\кркр\кркр.cpp(46,24): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\elisr\OneDrive\Документи\уни 2 курс\Обектноориентирано програмиране\Курсов Проект\кркр\кркр\кркр.cpp(47,28): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\elisr\OneDrive\Документи\уни 2 курс\Обектноориентирано програмиране\Курсов Проект\кркр\кркр\кркр.cpp(149,1): error C2059: syntax error: ','
+C:\Users\elisr\OneDrive\Документи\уни 2 курс\Обектноориентирано програмиране\Курсов Проект\кркр\кркр\кркр.cpp(151,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\elisr\OneDrive\Документи\уни 2 курс\Обектноориентирано програмиране\Курсов Проект\кркр\кркр\кркр.cpp(151,1): error C2447: '{': missing function header (old-style formal list?)
